@@ -27,5 +27,7 @@ int main(){
     std::cout << "Washington DC has a latitude of" << washington_dc.get_latitude();
     std::cout << " and a altitude of" << washington_dc.get_longitude() << std::endl;
 
+    std:cout << "cambios 1" << endl;     
+
     return 0; 
 }
